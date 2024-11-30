@@ -21,7 +21,9 @@ Para executar este projeto, você precisará do seguinte:
 
 ```
 Baixe e instale o JDK do site oficial da Oracle ou use uma distribuição como OpenJDK
-Baixe e instale sua IDE preferida pelo site oficial.
+Utilize alguma aplicação para ter acesso ao phpMyAdmin
+Adicione o mysql-connector-j-9.0.0 ao build path do projeto
+Baixe e instale sua IDE preferida pelo site oficial, recomendo a utilização do Eclipse IDE.
 ```
 
 
@@ -30,20 +32,25 @@ Baixe e instale sua IDE preferida pelo site oficial.
 * Clone este repositório para sua máquina local:
 
 ```
-git clone https://github.com/seuusuario/ABSTRATA_PRODUTO
+git clone https://github.com/seuusuario/CONTROLE_PRODUTO
 
 ```
 * Abra o projeto na sua IDE.
-* Compile e execute a classe `Oxxo` para testar as operações de salvar, deletar, atualizar e calcular o lucro.
+* Compile e execute a classe `ProdutosCLI` para testar as operações de salvar, deletar, atualizar e calcular o lucro.
 
 
 ## 🛠️ Construído com
 
 * Java - Linguagem de programação utilizada
-* IDE Visual Studio Code - Ambiente de desenvolvimento integrado
+* MySQL - Linguagem de banco de dados
 * IDE IntelliJ IDEA - Ambiente de desenvolvimento integrado
+* phpMyAdmin - Ambiente de desenvolvimento de banco de dados
 
 ## ✒️ Autores
 
 * **Marcelo Lisboa** - *Trabalho Inicial* - Sistema de Gerenciamento de Produtos
+
+
+![Screenshot_2](https://github.com/user-attachments/assets/f354ebf5-ea20-4fd9-8aec-f7f83ae56a31)
+![Screenshot_1](https://github.com/user-attachments/assets/a8d78655-ad59-4694-903a-541bd993bbb8)
 
